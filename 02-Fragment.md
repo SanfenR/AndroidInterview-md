@@ -1,4 +1,4 @@
-://developer.android.com/guide/components/fragments.html?hl=zh-cn)
+[官方文档](https://developer.android.com/guide/components/fragments.html?hl=zh-cn)
 
 ### 生命周期
 
@@ -55,4 +55,5 @@ ViewPager是support v4库中提供界面滑动的类，继承自ViewGroup。Page
 * onCreateView()之前，如果该界面为当前页，则调用setUserVisibleHint(true)，否则调用setUserVisibleHint(false)。
 * 界面变为可见时，调用setUserVisibleHint(true)。
 * 界面变为不可见时，调用setUserVisibleHint(false)。
+
 
